@@ -19,7 +19,6 @@ want to contribute to it we recommend you to read the reference.
    howto/index
    reference/index
    contribution
-   donation
    glossary
    releases/index
 

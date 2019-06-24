@@ -62,9 +62,6 @@ release = info['release']['name']
 github_user = info['github']['user']
 github_repo = info['github']['repo']
 
-# donation
-donate_url = info['urls']['funding']
-
 # logo
 logo = info['project']['logo']
 

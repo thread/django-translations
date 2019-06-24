@@ -34,7 +34,6 @@ setuptools.setup(
     keywords=' '.join(info['keywords']),
     project_urls={
         'Documentation': info['urls']['documentation'],
-        'Funding': info['urls']['funding'],
         'Source': info['urls']['source'],
         'Tracker': info['urls']['tracker'],
     },

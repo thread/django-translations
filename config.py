@@ -7,18 +7,18 @@ import json
 
 # project
 project = {
-    'name': 'Django Translations',
+    'name': 'Django Translations (Thread fork)',
     'github': 'django-translations',
-    'dist': 'django-translations',
+    'dist': 'django-translations-thread',
     'desc': 'Django model translation for perfectionists with deadlines.',
     'logo': 'translation.svg',
 }
 
 # author
 author = {
-    'name': 'Behzad B. Mokhtari',
-    'email': 'behzad.public@gmail.com',
-    'github': 'bbmokhtari',
+    'name': 'Thread Engineering',
+    'email': 'tech@thread.com',
+    'github': 'thread',
 }
 
 # github
@@ -32,8 +32,6 @@ urls = {
     'source': 'https://github.com/{user}/{repo}'.format(**github),
     'tracker': 'https://github.com/{user}/{repo}/issues'.format(**github),
     'documentation': 'https://{user}.github.io/{repo}'.format(**github),
-    'funding': 'https://{user}.github.io/{repo}/donation.html'.format(
-        **github),
 }
 
 # search optimization
