@@ -1,5 +1,10 @@
 # Django Translations
 
+NOTE: This package is a fork of
+https://github.com/bbmokhtari/django-translations. It contains features and
+fixes not yet available in the original package, but will not by maintained for
+public use. Please depend on the original package.
+
 [![build](https://travis-ci.com/bbmokhtari/django-translations.svg?branch=master)](https://travis-ci.com/bbmokhtari/django-translations)
 [![python](https://img.shields.io/badge/python-3.5%7C3.6-0073b7.svg)](https://pypi.org/project/django-translations/)
 [![pypi](https://img.shields.io/badge/pypi-1.0.0-f9d35f.svg)](https://pypi.org/project/django-translations/)
